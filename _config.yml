@@ -3,4 +3,4 @@ email: donggs2021@mail.sustech.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website where I share my thoughts and ideas on applying LLMs in various domains.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gengshangdong.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
