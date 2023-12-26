@@ -10,7 +10,7 @@ Here, I explore the impact of Large Language Models in various specialized field
 
 ## Domains
 
-- [Clinical Applications of LLMs](/_posts/2023-12-26-clinic.md)
+- [Clinical Applications of LLMs](/_posts/clinic.md)
 - [Legal Implications and Uses of LLMs](/_posts/2023-01-02-law.md)
 - [LLMs in Finance and Economics](/_posts/2023-01-03-finance.md)
 
