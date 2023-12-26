@@ -1,2 +1,2 @@
-# STA5007.github.io
+# STA5007
 Project2
