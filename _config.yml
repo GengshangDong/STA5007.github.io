@@ -1,5 +1,5 @@
-title: Your Site Title
-email: your-email@example.com
+title: My HomePage
+email: donggs2021@mail.sustech.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website where I share my thoughts and ideas on applying LLMs in various domains.
 baseurl: "" # the subpath of your site, e.g. /blog
