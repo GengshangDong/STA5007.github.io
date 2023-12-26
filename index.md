@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: default
 title: Home
-permalink: /index/
 ---
 
 # Welcome to My Website on LLM Applications
